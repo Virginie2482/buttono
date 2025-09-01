@@ -1,3 +1,4 @@
 A flexible Sass mixin for creating BEM-style buttons.
 # guard against empty input
 # guard against empty input
+# guard against empty input
